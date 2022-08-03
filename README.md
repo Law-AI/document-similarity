@@ -14,7 +14,10 @@ In each dataset, there is:
 
 (a) A "documents" folder : contains the full text of the documents.
 
-(b) similarity_scores.csv : file containing the legal expert assigned similarity score between two documents, in the format <doc1>,<doc2>,<score>
+(b) similarity_scores.csv : file containing the legal expert assigned similarity score between two documents, in the format 
+```
+doc1,doc2,score
+```
 
 A document is identified by its filename in the similarity_scores.csv file.
 
