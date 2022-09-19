@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the repository for the paper titled "Legal Case Document Similarity: You Need Both Network and Text" which is under minor revision at the Information Processing and Management Journal.
+This is the repository for the paper titled "Legal Case Document Similarity: You Need Both Network and Text" accepted at the Information Processing and Management Journal.
 
 The task here is to calculate a similarity score (in the range 0-1) between two case documents. We provide the validation and test set documents for the task.
 
