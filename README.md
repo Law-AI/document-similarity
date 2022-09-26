@@ -2,10 +2,25 @@
 
 ## Introduction
 
-This is the repository for the paper titled "Legal Case Document Similarity: You Need Both Network and Text" accepted at the Information Processing and Management Journal.
+This is the repository for the paper titled "Legal Case Document Similarity: You Need Both Network and Text" accepted at the <a href="https://www.sciencedirect.com/science/article/pii/S0306457322001716">Information Processing and Management Journal</a>.
 
 The task here is to calculate a similarity score (in the range 0-1) between two case documents. We provide the validation and test set documents for the task.
 
+## Citation
+If you use this dataset, please refer to the following paper:
+```
+@article{bhattacharya-ipm22,
+title = {Legal case document similarity: You need both network and text},
+author = {Paheli Bhattacharya and Kripabandhu Ghosh and Arindam Pal and Saptarshi Ghosh},
+journal = {Information Processing \& Management},
+volume = {59},
+number = {6},
+pages = {103069},
+year = {2022},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2022.103069},
+}
+```
 ## Data Format
 
 The validation.zip folder contains the validation dataset. The test.zip folder contains the test dataset.
